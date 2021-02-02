@@ -1,4 +1,7 @@
 # MatrixOperations
+
+# Lukáš Petráček
+# -------------------
 ## TODO
 - [ ] Finish implementing the `MatrixtTest` test class.
 - [ ] Finish implementing the `Matrix` class.
